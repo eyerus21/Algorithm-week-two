@@ -1,2 +1,2 @@
 # Algorithm-week-two
-solution for algorithm week two
+solution for assignment of week two
